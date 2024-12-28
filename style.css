@@ -161,3 +161,41 @@ h3 {
     margin-top: -40px;
 }
 
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign-up.second {
+    margin: 0px;
+    border: 3px solid #e5e7eb;
+}
+
+.action-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 100px;
+    border-radius: 10px;
+    background-color: #3882f6;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.action-child .text .bold {
+    font-weight: 700;
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.action-child .text .light {
+    font-size: 16px;
+    margin-top: -15px;
+    color: #f9faf8;
+}
+
+.sign-button {
+    margin-left: 150px;
+}
